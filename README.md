@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/jacque-sbraga/social-links-profile/)
+- Live Site URL: [Social Links Solution - Netfly](https://65f304da37ffb2dc798e3c4a--social-links-solution.netlify.app/)
 
 ## My process
 
