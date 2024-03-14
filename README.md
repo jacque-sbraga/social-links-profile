@@ -25,7 +25,7 @@ Users should be able to:
 
 ![Desktop Screen - 1440px](./screenshots/screenshot1.png)
 *Dekstop Screen - 1440px*
-![Mobile Screen - 375px](./screenshots/screenshot1.png)
+![Mobile Screen - 375px](./screenshots/screenshot2.png)
 *Mobile Screen - 375px*
 
 ### Links
