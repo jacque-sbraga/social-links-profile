@@ -23,10 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
+*Dekstop Screen - 1440px* <br />
 ![Desktop Screen - 1440px](./screenshots/screenshot1.png)
-*Dekstop Screen - 1440px*
+
+
+*Mobile Screen - 375px* <br/>
 ![Mobile Screen - 375px](./screenshots/screenshot2.png)
-*Mobile Screen - 375px*
 
 ### Links
 
