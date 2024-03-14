@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screen - 1440px](./screenshot1.jpg)
+![Desktop Screen - 1440px](./screenshots/screenshot1.png)
 *Dekstop Screen - 1440px*
-![Mobile Screen - 375px](./screenshot2.jpg)
+![Mobile Screen - 375px](./screenshots/screenshot1.png)
 *Mobile Screen - 375px*
 
 ### Links
