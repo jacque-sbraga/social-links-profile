@@ -1,0 +1,23 @@
+@import '../../variables/variables';
+.link {
+    display: block;
+    padding: 1.2rem;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 600;
+    background-color: $grey;
+    border-radius: 8px;
+    transition: .2s all ease;
+    &:hover {
+        background-color: $primary-green;
+        color: $dark-grey;
+    }
+}
+
+@media (max-width: 375px) {
+    .link {
+        font-size: 1.2rem;
+    }
+
+    
+}

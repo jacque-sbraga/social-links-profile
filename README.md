@@ -1,27 +1,57 @@
-# SocialLinksProfile
+# Frontend Mentor - Social links profile solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
-## Code scaffolding
+## Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### The challenge
 
-## Build
+Users should be able to:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- See hover and focus states for all interactive elements on the page
 
-## Running unit tests
+### Screenshot
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Desktop Screen - 1440px](./screenshot1.jpg)
+*Dekstop Screen - 1440px*
+![Mobile Screen - 375px](./screenshot2.jpg)
+*Mobile Screen - 375px*
 
-## Running end-to-end tests
+### Links
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Further help
+## My process
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Built with
+
+- Angular 17
+- SCSS
+- Typescript
+
+### What I learned
+
+This project of developing a link card for social media networks was an enriching experience that allowed me to explore not only Angular's functionalities but also to enhance my knowledge in web development in general.
+
+It's important to highlight that given the relatively simple scope of the project, it would have been perfectly feasible to implement it using only HTML, CSS, and JavaScript. However, I chose to use Angular as the development platform. Why? Simply for the sake of practice and deepening my understanding.
+
+#### Exploring New Horizons with Angular:
+By opting for Angular for this project, I challenged myself to utilize a more robust, component-based application structure. This allowed me to explore Angular's architecture, learn how to better organize code, and understand how different elements of the framework interact with each other.
+
+#### Leveraging Angular Features:
+While the project itself was relatively straightforward - displaying links to social media platforms on a card - I seized the opportunity to delve deeper into Angular's features. I used directives like **\*ngFor** for dynamic link repetition and property binding to update element properties as needed. These practices not only made the code more efficient but also familiarized me with Angular's essential concepts.
+
+#### The Importance of Practice:
+The decision to implement this project in Angular wasn't just a matter of technology choice, but rather a learning opportunity. Practice is crucial for developing programming skills, and choosing challenges beyond the basics is essential for professional growth.

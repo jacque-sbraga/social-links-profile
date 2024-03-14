@@ -1,0 +1,11 @@
+<div class="card">
+    <img class="card__image" [src]="imageProfile" alt="">
+    <div class="profile">
+        <h2 class="profile__title">{{ name }}</h2>
+        <p class="profile__description">{{ description }}</p>
+        <p class="profile__bio">"{{ bio }}"</p>
+    </div>
+    <div class="social-links">
+        <app-link *ngFor="let link of listLinks" [url]="link.url" [text]="link.name"></app-link>
+    </div>
+</div>

@@ -1,0 +1,67 @@
+@import '../../variables/variables';
+
+.card {
+    width: 38.4rem;
+    background-color: $dark-grey;
+    border-radius: 12px;
+    padding: 4rem;
+
+    &__image{
+        width: 88px;
+        height: 88px;
+        border-radius: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+.profile {
+    margin: 2.4rem 0;
+    text-align: center;
+
+    &__title {
+        font-size: 3rem;
+        margin-bottom: 0.8rem;
+        font-weight: 700;
+    }
+
+    &__description {
+        color: $primary-green;
+        font-size: 1.4rem;
+        font-weight: 600;
+        margin-bottom: 2.4rem;
+    }
+
+    &__bio {
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+}
+
+.social-links {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+@media (max-width: 509px) {
+    .card {
+        width: 327px;
+        padding: 2.4rem;
+    }
+}
+
+@media (max-width: 375px) {
+    .card {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .profile__title {
+        font-size: 2rem;
+    }
+
+    .profile__description, .profile__bio{
+        font-size: 1.2rem;
+    }
+}
